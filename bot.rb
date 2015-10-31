@@ -2,8 +2,8 @@ require 'bundler/setup'
 
 Bundler.require
 
-CHANNEL = '#emberjs-test'
-TIMEOUT = 2 #5 * 60
+CHANNEL = '#emberjs'
+TIMEOUT = 5 * 60
 debouncer = nil
 
 
